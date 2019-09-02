@@ -83,11 +83,11 @@ Fyrir hugmynd um hvernig síða eigi að líta út má skoða skjáskot í `/utl
 
 ## Sett fyrir
 
-Verkefni sett fyrir í fyrirlestri mánudaginn 3. september 2018.
+Verkefni sett fyrir í fyrirlestri mánudaginn 2. september 2019.
 
 ## Skil
 
-Skila skal undir „Verkefni og hlutaprófa“ á Uglu í seinasta lagi fyrir lok dags þriðjudaginn 11. september 2018.
+Skila skal undir „Verkefni og hlutaprófa“ á Uglu í seinasta lagi fyrir lok dags þriðjudaginn 10. september 2019.
 
 Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn sem heitir notendanafni, t.d. `verkefni2-osk.zip`.
 
@@ -99,11 +99,3 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 11%, samtals 22
 
 ---
 
-> Útgáfa 0.2
-
-### Útgáfusaga
-
-| Útgáfa | Lýsing                              |
-|--------|-------------------------------------|
-| 0.1    | Fyrsta útgáfa                       |
-| 0.2    | Setja inn titla fyrir form og töflu |
