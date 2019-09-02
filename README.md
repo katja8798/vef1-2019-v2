@@ -1,8 +1,6 @@
 
 # Verkefni 2
 
-[Kynning í fyrirlestri](https://youtu.be/c8YD7QWsjIY).
-
 Setja skal upp fjórar síður, aðgengilegar af internetinu:
 
 1. Forsíða með tenglum á aðrar síður
